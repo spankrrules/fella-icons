@@ -4,10 +4,10 @@
   "authors": [
     "spankrrules <spankrrules@gmail.com>"
   ],
-  "description": "Icons used by Fella HOmes",
+  "description": "Various icons related to housing and hospitality industry, also used by Fella Homes",
   "main": "style.css",
   "moduleType": [],
-  "license": "Unlicense",
+  "license": "MIT",
   "ignore": [
     "**/.*",
     "node_modules",
