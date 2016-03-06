@@ -1,7 +1,7 @@
 ## Fella Icons - Household and Hospitality Icons
 Fella Icons is a small set of open source icons. Use if suits your needs.
 
-## Component
+## Installation
 Use bower to include in your project, just run
 
     $ bower install fella-icons
