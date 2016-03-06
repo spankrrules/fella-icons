@@ -1,0 +1,18 @@
+{
+  "name": "fella-icons",
+  "homepage": "https://github.com/spankrrules/fellaicons",
+  "authors": [
+    "spankrrules <spankrrules@gmail.com>"
+  ],
+  "description": "Icons used by Fella HOmes",
+  "main": "style.css",
+  "moduleType": [],
+  "license": "Unlicense",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
